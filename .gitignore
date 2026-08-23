@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Frontend build output
+dist/
+
+# Go
+*.exe
+*.test
+*.out
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+Demo Video.mp4
