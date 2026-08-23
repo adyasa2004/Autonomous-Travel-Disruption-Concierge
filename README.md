@@ -7,6 +7,12 @@ An intelligent AI agent that detects travel disruptions and autonomously rebooks
 
 **The Solution:** The Travel Disruption Concierge is a proactive, event-driven AI system. Instead of forcing passengers to call in, the system instantly detects flight cancellations via webhook, evaluates alternative flights using an AI agent constrained by the user's specific policy/tier, and autonomously rebooks them. Passengers receive an instant notification with their new itinerary before they even realize they were stranded.
 
+## 🎥 Demo
+
+> See the complete disruption → AI planning → rebooking → notification workflow.
+
+[**▶️ Watch the Demo**](https://github.com/user-attachments/assets/654695c2-fc96-4e0e-b7a3-22c16a5a3e4d)
+
 ## Project Structure
 
 ```text
